@@ -1,3 +1,5 @@
+# 10Cloud Dev Blog writing guide
+
 This tutorial will guide you how to write a post.
 
 ## Naming and Path
