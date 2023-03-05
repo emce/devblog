@@ -1,4 +1,4 @@
-# 10Cloud Dev Blog writing guide
+# Michał Ćwikliński Blog writing guide
 
 This tutorial will guide you how to write a post.
 
