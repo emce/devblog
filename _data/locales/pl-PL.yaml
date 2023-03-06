@@ -23,7 +23,7 @@ search:
   no_results: Ups! NIc nie znaleziono.
 
 panel:
-  lastmod: OStatnio zaktualizowane
+  lastmod: Ostatnio zaktualizowane
   trending_tags: Popularne tagi
   toc: Zawartość
 
@@ -51,8 +51,8 @@ notification:
 # ----- Posts related labels -----
 
 post:
-  written_by: przez
-  posted: Napisany
+  written_by: autor
+  posted: Data
   updated: Zaktualizowany
   words: słów
   pageview_measure: odsłon
