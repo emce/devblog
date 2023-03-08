@@ -19,7 +19,7 @@ timezone: Europe/Warsaw
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Michał Ćwikliński                       # the main title
+title: mobi GEEK                      # the main title
 
 tagline: Blog Michała Ćwiklińskiego   # it will display as the sub-title
 
@@ -116,7 +116,7 @@ assets:
     env:          # [development|production]
 
 pwa:
-  enabled: true   # the option for PWA feature
+  enabled: false   # the option for PWA feature
 
 paginate: 10
 
