@@ -32,7 +32,7 @@ html {
     background: var(--body-bg);
     color: var(--text-color);
     -webkit-font-smoothing: antialiased;
-    font-family: Inconsolata, sans-serif;
+    font-family: 'Inconsolata', monospace;
     line-height: 1.75;
   }
   
@@ -1200,7 +1200,7 @@ html {
     }
   
     .toast-body {
-      font-family: Inconsolata, sans-serif;
+      font-family: 'Inconsolata', monospace;
       line-height: 1.25rem;
   
       button {
