@@ -1,5 +1,5 @@
 ---
-title: Unlocking Success: A Comprehensive Guide to Onboarding New Engineers in Software Development
+title: Unlocking Success - A Comprehensive Guide to Onboarding New Engineers in Software Development
 date: 2023-11-08 09:03:04 +0100
 categories: [management]
 tags: [management,engineering,onboarding]
@@ -23,7 +23,6 @@ From the initial pre-arrival preparations to the ongoing development and integra
 - Introductory Video: Share a video or message from the CEO or CTO to provide an overview of the company's mission and culture.
 
 ## Week 1: Orientation and Company Culture
-
 ### Day 1: Orientation
 - Welcome session with HR and team leads.
 - Complete paperwork and administrative tasks.
@@ -37,7 +36,6 @@ From the initial pre-arrival preparations to the ongoing development and integra
 - Schedule team lunches and meetings to foster connections.
 
 ## Week 2-3: Technical Training
-
 ### Technology Stack:
 - Deep dive into the company's technology stack.
 - Workshops on the software, tools, and frameworks used.
@@ -50,7 +48,6 @@ From the initial pre-arrival preparations to the ongoing development and integra
 - Encourage them to shadow senior team members.
 
 ## Week 4: Role-specific Training
-
 ### Role-Specific Training:
 - Tailor training to each engineer's specific role.
 - Cover responsibilities, expectations, and performance metrics.
@@ -61,7 +58,6 @@ From the initial pre-arrival preparations to the ongoing development and integra
 - Familiarize engineers with the company's development and deployment processes.
 
 ## Months 2-3: Ongoing Development
-
 ### Regular Check-Ins:
 - Conduct weekly or bi-weekly check-ins with mentors and managers.
 - Address concerns and track progress.
