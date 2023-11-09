@@ -1,5 +1,5 @@
 ---
-title: Navigating Onboarding - A Manager Role in Software Development Success
+title: Navigating Onboarding A Manager Role in Software Development Success
 date: 2023-11-09 10:10:14 +0100
 categories: [management]
 tags: [management,engineering,onboarding,engineering manager]()
