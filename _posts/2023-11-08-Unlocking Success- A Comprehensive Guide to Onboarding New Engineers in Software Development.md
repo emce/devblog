@@ -6,7 +6,7 @@ tags: [management,engineering,onboarding]
 image:
   path: /assets/img/onboarding.png
   alt: onboarding
-author: michal\_cwiklinski
+author: michal_cwiklinski
 toc: false
 ---
 

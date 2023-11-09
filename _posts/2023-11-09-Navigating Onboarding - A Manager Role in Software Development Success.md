@@ -2,11 +2,11 @@
 title: Navigating Onboarding - A Manager Role in Software Development Success
 date: 2023-11-09 10:10:14 +0100
 categories: [management]
-tags: [management,engineering,onboarding,engineering manager]
+tags: [management,engineering,onboarding,engineering manager]()
 image:
   path: /assets/img/onboarding-em.png
   alt: onboarding
-author: michal\_cwiklinski
+author: michal_cwiklinski
 toc: false
 ---
 
@@ -25,6 +25,3 @@ The role of an Engineering Manager in the onboarding process for new engineers i
 11. **Cultural Integration**: Engineering Managers are essential in instilling the company's culture and values into new engineers. They lead by example and ensure that new engineers understand and embrace the organization's cultural aspects.
 
 In essence, Engineering Managers are instrumental in bridging the gap between new engineers and the existing team. Their leadership, mentorship, and technical guidance are vital for the successful integration of new talent, making them valuable assets to the onboarding process in a software development company.
-
-
-
