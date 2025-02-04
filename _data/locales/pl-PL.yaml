@@ -14,6 +14,7 @@ tabs:
   categories: Kategorie
   tags: Tagi
   archives: Archiwum
+  uses: Uses
   about: O mnie
 
 # the text displayed in the search bar & search results
