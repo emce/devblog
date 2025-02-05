@@ -10,14 +10,14 @@ platforms:
     icon: "fab fa-facebook-square"
     link: "https://www.facebook.com/sharer/sharer.php?title=TITLE&u=URL"
 
-   - type: Linkedin
-     icon: "fab fa-linkedin"
-     link: "https://www.linkedin.com/sharing/share-offsite/?url=URL"
+  - type: Linkedin
+    icon: "fab fa-linkedin"
+    link: "https://www.linkedin.com/sharing/share-offsite/?url=URL"
 
-     - type: Mastodon
-     icon: "fa-brands fa-mastodon"
-     # See: https://github.com/justinribeiro/share-to-mastodon#properties
-     instances:
+  - type: Mastodon
+    icon: "fa-brands fa-mastodon"
+    # See: https://github.com/justinribeiro/share-to-mastodon#properties
+    instances:
        - label: pol.social
          link: "https://pol.social/"
 
