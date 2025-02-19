@@ -1,5 +1,5 @@
 ---
-title: Dockerized Tools: part 1
+title: Dockerized Tools - part 1
 date: 2025-02-20 07:52:01 +0100
 categories: [docker]
 tags: [docker,self-hosted,home-server,owntone,nginx-proxy-manager,portainer,home-assistant,jellyfin,docker]
