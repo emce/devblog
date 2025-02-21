@@ -199,7 +199,7 @@ budowanie rozwiązań cross-platform.
 
 ### **Doświadczenie Zawodowe**
 
-#### **Kierownik Inżynierii | Schibsted Tech Polska | Lipiec 2024 – Obecnie**
+#### **Engineering Manager | Schibsted Tech Polska | Lipiec 2024 – Obecnie**
 
 🏭 *Branża*: **Media**   
 ⌨️ *Stos technologiczny*: **Java**, **Kotlin**, **Javascript**, **AWS**   
@@ -214,7 +214,7 @@ budowanie rozwiązań cross-platform.
 - Napędzanie wzrostu zespołu poprzez **strukturyzację strategii rekrutacyjnych, mentoring/coaching inżynierów i
   ułatwianie rozwoju osobistego**.
 
-#### **Kierownik Inżynierii | Santander Bank Polska**
+#### **Engineering Manager | Santander Bank Polska**
 
 🏭 *Branża*: **Bank**   
 ⌨️ *Stos technologiczny*: **Java**, **React**, **DevOps**   
@@ -228,7 +228,7 @@ budowanie rozwiązań cross-platform.
 - Zapewnianie **kierunku technicznego i strategicznego** dla aplikacji bankowych, gwarantując jakość i zgodność z
   przepisami.
 
-#### **Kierownik Inżynierii | 10Clouds**
+#### **Engineering Manager | 10Clouds**
 
 🏭 *Branża*: **Software House**   
 ⌨️ *Stos technologiczny*: **Swift**, **Kotlin**, **Flutter**, **React Native**   
@@ -243,7 +243,7 @@ budowanie rozwiązań cross-platform.
 - Zarządzanie wieloma dostawami opartymi na Agile, zapewniając zgodność z **oczekiwaniami klientów i celami biznesowymi
   **.
 
-#### **Kierownik Wydań | Brainly**
+#### **Mobile Release Manager | Brainly**
 
 🏭 *Branża*: **Edukacja**   
 ⌨️ *Stos technologiczny*: **Swift**, **Kotlin**, **Python**, **DevOps**   
@@ -256,7 +256,7 @@ budowanie rozwiązań cross-platform.
   produktem i rozwojem**.
 - Wdrażanie **automatyzacji** procesów w celu optymalizacji wydań mobilnych i zapewnienia jakości.
 
-#### **Kierownik Rozwoju Oprogramowania | NetEnt**
+#### **Development Manager | NetEnt**
 
 🏭 *Branża*: **Gry przeglądarkowe (Hazard)**   
 ⌨️ *Stos technologiczny*: **Java**, **Python**, **React**, **Vue.js**, **DevOps**   
@@ -268,7 +268,7 @@ budowanie rozwiązań cross-platform.
 - Prowadzenie procesów rekrutacyjnych, zapewniających efektywne zatrudnianie i wdrażanie.
 - Ścisła współpraca z liderami dyscyplin w celu napędzania innowacji technicznych i utrzymania doskonałości w rozwoju.
 
-#### **Główny Lider Rozwoju Android | Grand Parade**
+#### **Core Android Development Lead | Grand Parade**
 
 🏭 *Branża*: **Hazard**   
 ⌨️ *Stos technologiczny*: Java, Kotlin  
