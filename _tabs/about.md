@@ -15,32 +15,30 @@ but also an Apple-boy, amateur-volleyball player, bibliophile (fantasy, sci-fi),
 
 ## Professional Summary**
 
-An **Engineering Manager** with extensive experience in **leading cross-functional teams, driving technical
-excellence, and optimizing software delivery processes**. Passionate about **team development, servant leadership, and
-fostering
-a culture of continuous improvement**, I have successfully managed **engineering teams, release cycles, and
-cloud-native solutions** across various industries, including **finance, media, gaming, and cloud platforms**.
+An **Engineering Manager** with extensive experience in **leading cross-functional teams, driving technical excellence,
+and optimizing software delivery processes**. Passionate about **team development, servant leadership, and fostering a
+culture of continuous improvement**, I have successfully managed **engineering teams, release cycles, and cloud-native
+solutions** across various industries, including **finance, media, gaming, and cloud platforms**.
 
 With a track record of **mentoring engineers, implementing strategic hiring processes, and streamlining release
-management**, I excel at **building high-performing teams** and ensuring efficient software delivery in *
-*Agile-driven environments**. Skilled in **mobile technologies** (especially Android, but also iOS and cross-platform
-ones) and **containerization (Docker, Kubernetes), cloud technologies (AWS), CI/CD pipelines**, I'm bringing a *
-*technical
-and leadership-driven approach** to engineering execution.
+management**, I excel at **building high-performing teams** and ensuring efficient software delivery in **Agile-driven
+environments**. Skilled in **mobile technologies** (especially Android, but also iOS and cross-platform ones) and *
+*containerization (Docker, Kubernetes), cloud technologies (AWS), CI/CD pipelines**, I'm bringing a **technical and
+leadership-driven approach** to engineering execution.
 
 ---
 
 ### **Key Skills & Expertise**
 
 ✔️ **Engineering Management** – Leading multidisciplinary teams of developers, testers, and designers.  
-✔️ **Technical Leadership** – Driving best practices in software development, cloud infrastructure, and automation.
+✔️ **Technical Leadership** – Driving best practices in software development, cloud infrastructure, and automation.   
 ✔️ **Team Building & Mentorship** – Growing engineering talents, guiding career development, and fostering
 collaboration.  
 ✔️ **Release & Deployment Management** – Overseeing release cycles for large-scale applications in regulated
 industries.  
-✔️ **Agile & Project Management** – Managing team structures, resource allocation, and Agile delivery.
+✔️ **Agile & Project Management** – Managing team structures, resource allocation, and Agile delivery.   
 ✔️ **Mobile technologies** – Building and orginizing mobile teams, **architecture and apps support**, CI/CD
-processes/pipelines, cross-platform solutions.
+processes/pipelines, cross-platform solutions.   
 ✔️ **Cloud & DevOps** – Experience in **AWS cloud solutions, containerized services (Docker, Kubernetes), and CI/CD
 processes**.  
 ✔️ **Technical Recruitment** – Hiring and structuring teams for high-scale projects and innovative environments.
@@ -153,7 +151,7 @@ A visionary **Engineering Manager and Release Leader**, I'm focusing on **team g
 delivering scalable digital solutions**. My leadership philosophy revolves around **mentoring/coaching engineers,
 fostering collaboration, and enabling technology-driven success**.
 
-🔹 Let’s connect and explore opportunities for innovation, leadership, and impactful software engineering. 🚀
+🔹 **Let’s connect** and explore opportunities for innovation, leadership, and impactful software engineering. 🚀
 
 ---
 
@@ -170,11 +168,10 @@ wszystkim zwariowanym ojcem…
 ## **Profil Zawodowy**
 
 Doświadczony **Engineering Manager** z wieloletnim doświadczeniem w **zarządzaniu zespołami technicznymi, optymalizacji
-procesów dostarczania oprogramowania oraz budowaniu strategii rozwoju inżynierii oprogramowania**. Pasjonat *
-*servant leadership, mentoringu, coachingu oraz budowania zespołów o wysokiej efektywności**, który z sukcesem
-zarządzał *
-*zespołami inżynieryjnymi, wdrożeniami aplikacji oraz rozwiązaniami chmurowymi** w sektorach takich jak **finanse,
-media, gaming** oraz **chmura obliczeniowa**.
+procesów dostarczania oprogramowania oraz budowaniu strategii rozwoju inżynierii oprogramowania**. Pasjonat **servant
+leadership, mentoringu, coachingu oraz budowania zespołów o wysokiej efektywności**, który z sukcesem zarządzał *
+*zespołami inżynieryjnymi, wdrożeniami aplikacji oraz rozwiązaniami chmurowymi** w sektorach takich jak m.in. **finanse,
+media**, oraz **hazard**.
 
 Dzięki doświadczeniu w **tworzeniu strategii rekrutacyjnych, zarządzaniu cyklami wydawniczymi oraz wdrażaniu
 nowoczesnych technologii** doskonale łączę **przywództwo techniczne** z efektywną organizacją pracy zespołów
@@ -194,7 +191,7 @@ projektantów.
 ✔️ **Zarządzanie Agile & Scrum** – Planowanie struktury zespołu, alokacja zasobów i optymalizacja dostarczania
 oprogramowania.  
 ✔️ **Technologie Mobilne** – Budowanie i organizacja zespołów, **architektura oraz wsparcie aplikacji**, procesy CI/CD,
-budowanie rozwiązań cross-platform.
+budowanie rozwiązań cross-platform.   
 ✔️ **Chmura & DevOps** – Doświadczenie w **AWS, konteneryzacji (Docker, Kubernetes) oraz CI/CD**.  
 ✔️ **Rekrutacja Techniczna** – Zatrudnianie i budowanie zespołów dla projektów o dużej skali.
 
@@ -227,7 +224,7 @@ budowanie rozwiązań cross-platform.
 - Zarządzanie **multidyscyplinarnym zespołem inżynieryjnym** pracującym nad **usługami kart debetowych** w złożonym
   ekosystemie bankowym.
 - Prowadzenie **rekrutacji technicznej, strukturyzacji zespołu oraz mentoringu/coachingu wydajności** w celu zapewnienia
-  wysokowydajnego zespołu.
+  wysokiej wydajności zespołu.
 - Zapewnianie **kierunku technicznego i strategicznego** dla aplikacji bankowych, gwarantując jakość i zgodność z
   przepisami.
 
@@ -296,11 +293,11 @@ budowanie rozwiązań cross-platform.
 
 ### **Osiągnięcia i Kontrybucje**
 
-🏆 Budowałem i skalowałem wysokowydajne zespoły inżynieryjne w domenie finansów, mediów, technologii i bankowości.
-🏆 Wdrażałem programy mentoringu/coachingu technicznego poprawiające umiejętności inżynierów i rozwój kariery.
-🏆 Integrowałem technologie konteneryzacji i architektury oparte na AWS dla skalowalnych aplikacji chmurowych.
-🏆 Optymalizowałem procesy zarządzania wydaniami, skracając czas wdrażania oprogramowania i zwiększając stabilność.
-🏆 Przewodziłem współpracy między zespołami inżynieryjnymi, produktowymi i biznesowymi.
+🏆 Budowałem i skalowałem wysokowydajne zespoły inżynieryjne w domenie finansów, mediów, technologii i bankowości.   
+🏆 Wdrażałem programy mentoringu/coachingu technicznego poprawiające umiejętności inżynierów i rozwój kariery.   
+🏆 Integrowałem technologie konteneryzacji i architektury oparte na AWS dla skalowalnych aplikacji chmurowych.   
+🏆 Optymalizowałem procesy zarządzania wydaniami, skracając czas wdrażania oprogramowania i zwiększając stabilność.   
+🏆 Przewodziłem współpracy między zespołami inżynieryjnymi, produktowymi i biznesowymi.   
 🏆 Angażowałem się w procesy pre-sales i planowanie strategiczne, przyczyniając się do wzrostu firmy i satysfakcji
 klientów.
 
@@ -312,6 +309,6 @@ Lider i wizjoner w obszarze **zarządzania inżynierią oprogramowania**, łącz
 mentoringu/coachingu i optymalizacji procesów** z realnym wdrażaniem innowacji. Moje podejście koncentruje się na *
 *rozwijaniu talentów, doskonaleniu technologii i usprawnianiu procesów IT**.
 
-🔹 **Chcesz porozmawiać o możliwościach współpracy, innowacjach i rozwoju inżynierii? Zapraszam do kontaktu! 🚀**
+🔹 Chcesz porozmawiać o możliwościach współpracy, innowacjach i rozwoju inżynierii? **Zapraszam do kontaktu!** 🚀
 
 ---
