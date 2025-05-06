@@ -59,12 +59,12 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: G-WDTG43TWTN
+    id: 
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
-    id: # fill in your Umami ID
-    domain: # fill in your Umami domain
+    id: 13131474-53e2-4624-b35b-2b6732ebdbe5
+    domain: stats.cwiklin.ski
   matomo:
     id: # fill in your Matomo ID
     domain: # fill in your Matomo domain
