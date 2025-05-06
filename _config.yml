@@ -64,7 +64,7 @@ analytics:
     id: # fill in your GoatCounter ID
   umami:
     id: 13131474-53e2-4624-b35b-2b6732ebdbe5
-    domain: stats.cwiklin.ski
+    domain: https://stats.cwiklin.ski
   matomo:
     id: # fill in your Matomo ID
     domain: # fill in your Matomo domain
