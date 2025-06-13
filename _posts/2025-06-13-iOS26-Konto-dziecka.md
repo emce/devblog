@@ -1,5 +1,5 @@
 ---
-title: iOS 26: Nowe narzędzia rodzinne i inteligentniejsze konta dzieci
+title: iOS 26 - Nowe narzędzia rodzinne i inteligentniejsze konta dzieci
 date: 2025-06-13 09:52:51 +0100
 categories: [apple]
 tags: [apple,kids,applications,iOS,account]
