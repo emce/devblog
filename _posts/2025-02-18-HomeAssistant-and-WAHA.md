@@ -1,8 +1,8 @@
 ---
 title: Home Assistant and WAHA
 date: 2025-02-18 13:51:14 +0100
-categories: [smart-home]
-tags: [smart-home,whatsapp,api,notifications,integration]
+categories: [smarthome]
+tags: [smarthome,whatsapp,api,notifications,integration]
 image:
   path: /assets/img/whatsapp.jpg
   alt: whatsapp
