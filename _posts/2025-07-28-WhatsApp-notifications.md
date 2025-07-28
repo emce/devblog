@@ -1,6 +1,6 @@
 ---
 title: WhatsApp Notifications
-date: 2025-07-28 12:38:54 +0100
+date: 2025-07-28 11:38:54 +0100
 categories: [smarthome]
 tags: [smarthome,whatsapp,bot,notifications,multimedia]
 image:
