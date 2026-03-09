@@ -10,7 +10,6 @@ author: michal_cwiklinski
 toc: false
 ---
 
-![Joanna W. Gajzler - Necrovet](/assets/img/seria_necrovet.png)
 ### Cykl **Necrovet** autorstwa Joanny W. Gajzler [8/10]
    - Tom 1 - [Necrovet. Usługi weterynaryjno-nekromantyczne](https://lubimyczytac.pl/ksiazka/5070171/necrovet-uslugi-weterynaryjno-nekromantyczne)
    - Tom 2 - [Necrovet. Metody leczenia drakonidów](https://lubimyczytac.pl/ksiazka/5090095/necrovet-metody-leczenia-drakonidow)
