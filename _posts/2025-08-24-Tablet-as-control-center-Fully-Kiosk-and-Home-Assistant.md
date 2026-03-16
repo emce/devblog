@@ -2,7 +2,7 @@
 title: 🇬🇧 Tablet as control center - Fully Kiosk and Home Assistant
 date: 2025-08-24 08:36:14 +0100
 categories: [smarthome]
-tags: [smarthome,tablet,control center,dashboard,home assistant]
+tags: [smarthome,tablet,control center,dashboard,home-assistant]
 image:
   path: /assets/img/fully-kiosk-ha.jpg
   alt: fully_kiosk

@@ -8,16 +8,16 @@ order: 4
 
 Here’s a list of things I use to build software, stay productive, or buy to fool myself into thinking I’m being productive when I’m really just procrastinating. Inspired by [uses.tech](https://uses.tech)
 
-Last update: `February 1st, 2025`
+Last update: `February 1st, 2026`
 
 ## Gear
 
-- MacBook Air M3 Midnight 256GB/8GB
+- MacBook Air M4 512GB/16GB
 - ARZOPA 16.1'' 144Hz 1080P FHD Portable Gaming Monitor
 - Logitech Lift Vertical
-- iPhone 14 256GB
-- AirPods Pro 2
-- Apple Watch 10 46mm
+- iPhone 17 256GB
+- AirPods Pro 3
+- Apple Watch 11 46mm
 
 ## Tech Stack
 
@@ -31,6 +31,7 @@ Last update: `February 1st, 2025`
 - PHP
 - Android & iOS
 - Docker
+- Podman
 - Github
 - Firebase
 - MySQL
@@ -40,19 +41,17 @@ Last update: `February 1st, 2025`
 ## Software
 
 - MacOS && iOS
-- Setapp
-- Jetbrains IntelliJ IDEA, PyCharm, Fleet
+- Jetbrains IntelliJ IDEA, PyCharm, WebStorm
 - Android Studio && Xcode
 - Raycast
-- Notion
 - Slack
-- 1Password
+- Bitwarden
 - Apple Music
-- Reeder
+- NetNewsWire
 - RapidAPI
 - Forklift
 - SparkMail
-- ProxyMan
 - Affinity products
 - ProNotes
-- Terminus
+- Termius
+- lots of self-hosted tools

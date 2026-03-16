@@ -2,7 +2,7 @@
 title: 🇬🇧 Smart Home Display - From Photo Frame to Info Hub
 date: 2026-02-14 15:06:10 +0100
 categories: [smarthome]
-tags: [smarthome,integration,home assistant,display,ssh,self-hosted]
+tags: [smarthome,integration,home-assistant,display,ssh,self-hosted]
 image:
   path: /assets/img/smart-home-display.png
   alt: Smart Home Display
@@ -20,6 +20,7 @@ I transformed a [cheap touchscreen monitor from AliExpress](https://pl.aliexpres
 ## Home Assistant Integration
 Config in `configuration.yaml` (HA on separate host, SSH to Pi "display"):
 
+{% raw %}
 ```yaml
 shell_command:
   display_reboot: ssh -F /config/ssh/config display 'sudo /sbin/shutdown -r now'
@@ -30,9 +31,11 @@ shell_command:
   display_notify_message: ssh -F /config/ssh/config display 'DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus notify-send -u {{ mode }} -i "{{ icon }}" "{{ title | replace("\\"", "\\\\\\"") }}" "{{ message | replace("\\"", "\\\\\\"") }}"'
   clear_notifications: ssh -F /config/ssh/config display 'dunstctl close-all'
 ```
+{% endraw %}
 ## HA Scripts
 Key automation scripts:
 
+{% raw %}
 ```yaml
 script:
   display_screen_on:
@@ -52,6 +55,7 @@ script:
           timeout: "{{ states('input_number.czas_notyfikacji') | int(150) }}"
 
 ```
+{% endraw %}
 
 ## Real-World Automations
 - Photo frame: Automation turns on screen at 8:00 AM, displays Immich Frame in surf browser.

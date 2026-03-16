@@ -2,7 +2,7 @@
 title: 🇵🇱 Moje dodatki HACS w Home Assistant
 date: 2025-09-05 16:40:06 +0100
 categories: [smarthome]
-tags: [smarthome,addons,integration,widget,home assistant]
+tags: [smarthome,addons,integration,widget,home-assistant]
 image:
   path: /assets/img/hacs_addons.png
   alt: HACS addons

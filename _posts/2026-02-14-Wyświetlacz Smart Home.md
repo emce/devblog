@@ -2,7 +2,7 @@
 title: 🇵🇱 Wyświetlacz Smart Home - Od ramki foto do centrum informacji
 date: 2026-02-14 14:43:54 +0100
 categories: [smarthome]
-tags: [smarthome,integration,home assistant,display,ssh,self-hosted]
+tags: [smarthome,integration,home-assistant,display,ssh,self-hosted]
 image:
   path: /assets/img/smart-home-display.png
   alt: Wyświetlacz Smart Home
@@ -21,6 +21,7 @@ Przekształciłem [tani monitor dotykowy z AliExpress](https://pl.aliexpress.com
 ## Integracja z Home Assistant
 Konfiguracja w configuration.yaml (HA na osobnym hoście, SSH do Pi "display"):
 
+{% raw %}
 ```yaml
 shell_command:
 display_reboot: ssh -F /config/ssh/config display 'sudo /sbin/shutdown -r now'
@@ -31,10 +32,12 @@ display_brightness: ssh -F /config/ssh/config display 'ddcutil setvcp 10 {{ brig
 display_notify_message: ssh -F /config/ssh/config display 'DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus notify-send -u {{ mode }} -i "{{ icon }}" "{{ title | replace("\\"", "\\\\\\"") }}" "{{ message | replace("\\"", "\\\\\\"") }}"'
 clear_notifications: ssh -F /config/ssh/config display 'dunstctl close-all'
 ```
+{% endraw %}
 
 ## Skrypty HA
 Kluczowe skrypty do automatyzacji:
 
+{% raw %}
 ```yaml
 script:
   display_screen_on:
@@ -53,6 +56,7 @@ script:
           message: "{{ message }}"
           timeout: "{{ states('input_number.czas_notyfikacji') | int(150) }}"
 ```
+{% endraw %}
 
 ## Automatyzacje w praktyce
 - Ramka foto: Automatyzacja włącza ekran o 8:00, Immich Frame wyświetlany w przedlądarce `surf`.
