@@ -2,7 +2,7 @@
 title: 🇵🇱 Tablet jako centrum dowodzenia - Fully Kiosk i Home Assistant
 date: 2025-08-24 08:29:04 +0100
 categories: [smarthome]
-tags: [smarthome,tablet,control center,dashboard,home assistant]
+tags: [smarthome,tablet,control center,dashboard,home-assistant]
 image:
   path: /assets/img/fully-kiosk-ha.jpg
   alt: fully_kiosk
