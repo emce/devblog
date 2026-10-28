@@ -1,5 +1,5 @@
 ---
-title: Touchkio jako interfejs dla Home Assistant
+title: 🇵🇱 Touchkio jako interfejs dla Home Assistant
 date: 2026-10-21 09:00:00 +0100
 categories: [smarthome]
 tags: [smarthome,integration,home-assistant,frontend,linux]
